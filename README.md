@@ -1,11 +1,10 @@
-# ChatAppTcpProject
+# ChatAppProject
 
-This project for educational purpose
 Meet the Team:
 
-1. Adhitya Wira Wardhana (5223600078)
-2. Muhammad Yaser Syafa Al-Machdi (5223600080)
-3. Galang Alif Wicaksono (5223600081)
+1. Rafael Dwiyanson Simarmata / 5223600065
+2. Ibrahim Ar-Rafii / 5223600066
+3. Falih Aryadhika Endrianto / 5223600086
 
 ---
 
