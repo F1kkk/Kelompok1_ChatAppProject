@@ -1,47 +1,42 @@
-# ChatAppProject
+#  Kelompok 1 - Chat App Project 💬
 
-Meet the Team:
+[![Language](https://img.shields.io/badge/language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-1. Rafael Dwiyanson Simarmata / 5223600065
-2. Ibrahim Ar-Rafii / 5223600066
-3. Falih Aryadhika Endrianto / 5223600086
+Ini adalah proyek aplikasi chat sederhana yang dibangun menggunakan C# dan .NET. Aplikasi ini memanfaatkan protokol **TCP (Transmission Control Protocol)** untuk komunikasi real-time antara server dan client.
 
 ---
 
-# 🚀 Setup Project
+## 👥 Tim Kami
 
-Clone this repository first:
-
-```bash
-git clone https://github.com/yasersyafa/ChatAppTcpProject.git
-```
-
-Move to project directory and install dependencies:
-
-```bash
-cd ChatAppTcpProject && dotnet restore
-```
+-   **Rafael Dwiyanson Simarmata** / `5223600065`
+-   **Ibrahim Ar-Rafii** / `5223600066`
+-   **Falih Aryadhika Endrianto** / `5223600086`
 
 ---
 
-# Project Workflow
+## 🚀 Memulai Proyek
 
-1. Make sure don't use main branch for your development
-2. Make your own branch from dev branch
-3. Naming your own branch `dev-{your name}`
-4. When your development finished, open pull request to `dev` branch
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokalmu.
 
----
+### Prasyarat
 
-# Commit naming convention
+Pastikan kamu sudah menginstal **.NET SDK** di komputermu. Kamu bisa mengunduhnya dari [situs resmi .NET](https://dotnet.microsoft.com/download).
 
-1. `feat` → adding new feature
-2. `fix` → fixing bug
-3. `docs` → update documentation
-4. `style` → change non-code logic (formatting, indentasi, dll.)
-5. `refactor` → refactor code without changing the behavior
-6. `test` → adding/fixing unit test
-7. `chore` → minor change (config, build, deps update)
-8. `perf` → fixing performance
+### Instalasi
 
-Example → `feat: adding server side with port 8080`
+1.  **Clone Repositori**
+    Gunakan perintah berikut untuk mengunduh proyek ke komputermu:
+    ```bash
+    git clone [https://github.com/F1kkk/Kelompok1_ChatAppProject.git](https://github.com/F1kkk/Kelompok1_ChatAppProject.git)
+    ```
+
+2.  **Masuk ke Direktori Proyek**
+    ```bash
+    cd Kelompok1_ChatAppProject
+    ```
+
+3.  **Install Dependencies**
+    Jalankan perintah ini untuk mengunduh semua paket yang dibutuhkan oleh proyek:
+    ```bash
+    dotnet restore
+    ```
